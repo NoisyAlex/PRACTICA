@@ -1,10 +1,3 @@
-#=========================================================
-# PRACTICE: PZ10
-# AUTHOR: Студент: ____
-# TEACHER: Сидоркин Т.А.
-# GROUP:
-#=========================================================
-
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
 
